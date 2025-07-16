@@ -61,61 +61,59 @@ Lapiaの概念・資料・翻訳・共有する際は、必ず以下の著作権
 
 # Lapia Custom License  
 Version 1.0 — Established on July 16, 2025  
-© 2025 Yutaka Yoshioka
+© 2025 Yutaka Yoshioka (吉岡有隆)
 
-The project "Lapia" and all related materials are protected under this custom license.
+The project "Lapia" and its related materials are protected under this custom license.
 
-## 1. Protected Elements
+## 1. Scope of Protection
 
 The following elements are protected by copyright:
 
-- Design philosophy and overall conceptual structure  
-- Name, branding, logo, UI/UX design, and other visual elements  
-- All written content including documents, descriptions, and user-facing texts  
-- The project's purpose (anonymous emotional support and recovery from dependency)
+- The conceptual design and the overall structure of the system  
+- The name, branding, logo, and visual elements including UI/UX  
+- All written content including descriptions, documentation, and user-facing texts  
+- The project’s core mission (anonymous empathy support & recovery from dependency)
 
-All copyrights are held by **Yutaka Yoshioka**.
+All copyrights are held by **Yutaka Yoshioka (吉岡有隆)**.
 
 ## 2. Permitted Uses
 
-The following uses are permitted under this license:
+The following activities are allowed under this license:
 
 - Viewing and sharing publicly available design documents  
-- Translating the content with proper attribution
+- Translating the materials, provided proper credit is given  
 
 ## 3. Prohibited Uses
 
 The following actions are strictly prohibited:
 
 - Using the concept or materials for **commercial or non-commercial purposes** without explicit permission  
-- Applying the content for **military, violent, surveillance-related, or exploitative purposes**  
-- Removing, falsifying, or altering the copyright notice  
-- Selling or licensing derivative works based on this project without permission
+- Applying the materials to **military, violent, surveillance, or exploitative purposes**  
+- Removing, falsifying, or altering the attribution of the original author  
+- Selling or licensing derivative works based on this project without authorization
 
 ## 4. Attribution Requirement
 
-When using, sharing, publishing, or translating any concepts, documents, or derivative works of Lapia,  
-you must include the following attribution statement:
+When using, translating, or sharing Lapia-related concepts or materials, the following copyright notice must be clearly displayed:
 
-> © 2025 Yutaka Yoshioka  
-> No unauthorized reproduction, modification, or sale allowed.
+> © 2025 Yutaka Yoshioka (吉岡有隆)  
+> Unauthorized reproduction, modification, or sale is prohibited.
 
-A link to the original repository or official documentation is also encouraged.
+Please also include a link to the original repository or official documents whenever possible.
 
-## 5. Relationship with F.U.K.U and KindureOS
+## 5. Relation to F.U.K.U and KindureOS
 
-This license follows the ethical principles of the **F.U.K.U Concept** (Structuring Kindness),  
+This license follows the ethical principles of the **F.U.K.U Framework** (Designing Structures of Kindness)  
 and is aligned with the **KindureOS License**, which prioritizes peaceful, regenerative, and inclusive system design.
 
 ## 6. Disclaimer
 
-This license does not grant automatic permission to use the name "Lapia" or its logo as a trademark.  
-Uses that may cause confusion with the official project or give a false impression of endorsement are strictly prohibited.
+This license does **not** grant automatic permission to use the Lapia trademark, project name, or logo.  
+Any use that may cause confusion with the official project or mislead users is strictly prohibited.
 
-Use of this license is at your own risk. The copyright holder assumes no responsibility  
-for any damages resulting from use or misuse.
+Use of this license is at your own risk. The copyright holder bears no responsibility for any damage resulting from its use or misuse.
 
 ---
 
-For questions or requests for special permission, please contact the copyright holder:  
-**Yutaka Yoshioka** — [@yoshiokayutaka_]
+For inquiries or special usage permissions, please contact:  
+**Yutaka Yoshioka (吉岡有隆)** — [@yoshiokayutaka_]
