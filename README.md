@@ -83,6 +83,8 @@ Flutter + GPTベースの軽量アプリとして、誰でもすぐに利用可�
 **吉岡有隆（Yutaka Yoshioka）** によって創作されたものです。  
 許可なくビジュアルやコンセプトを改変・再配布することはご遠慮ください。
 
+<a href="https://doi.org/10.5281/zenodo.15970970"><img src="https://zenodo.org/badge/1020744276.svg" alt="DOI"></a>
+
 ---
 
 ## コントリビューション歓迎
