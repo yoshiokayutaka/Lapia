@@ -95,8 +95,82 @@ Flutter + GPTベースの軽量アプリとして、誰でもすぐに利用可�
 
 ---
 
+# Lapia
+
+> “A place where you can talk freely — without being seen, without being judged.”
+
+**Lapia** is a dialogue-based application designed to provide a safe, anonymous, and non-romantic space where users can express emotions they can’t share elsewhere — without meeting anyone, without being identified, and without religious or romantic connotations.
+
+This repository contains the full design philosophy, feature concepts, and technical architecture of Lapia.
+
+---
+
+## Overview
+
+Lapia is built on the following values:
+
+- A **safe space for empathy**, free from romance, dependency, or sexuality  
+- Emotional support powered by **GPT**, with mental safeguards for supporters  
+- One-on-one, short, anonymous, and affordable sessions with human supporters  
+- Support for **lonely hours** when hospitals or mental health services are unavailable  
+- **Encrypted logs** with automatic deletion to ensure privacy and safety
+
+Developed with Flutter and GPT, Lapia aims to be lightweight and easily accessible to all.
+
+---
+
+## Repository Contents
+
+- `Lapia_Design_v0.1.pdf`: Detailed documentation of concept, features, and design  
+- `LICENSE.md`: FUKU-based license (non-commercial, non-military, empathy-focused)
+
+---
+
+## Roadmap
+
+- Alpha app development using Flutter + GPT  
+- PDF export of empathy-based feedback for self-reflection  
+- Implementation of supporter rating & recommendation algorithm  
+- API integration with municipalities and healthcare systems; web version rollout
+
+---
+
+## Copyright & License
+
+© 2025 Yutaka Yoshioka (吉岡有隆) / Lapia Project  
+All rights reserved. This concept and its documentation are protected by copyright.  
+Unauthorized reproduction, modification, or commercial use is strictly prohibited.
+
+You may **share or translate** this project **only under the following strict conditions**:
+
+- **No modifications of any kind are allowed**  
+- **Non-commercial use only**  
+- **No military or violent applications**  
+- **Attribution required**: © Yutaka Yoshioka  
+- **Must comply with the F.U.K.U. Framework and KindureOS License**
+
+See [`LICENSE.md`](./LICENSE.md) for full details.
+
+---
+
+## Attribution
+
+© 2025 Yutaka (有隆). All rights reserved.  
+Last updated: July 16, 2025
+
+The design, concept, philosophy, and UX structure of this project “Lapia”  
+were originally created by **Yutaka Yoshioka (吉岡有隆)**.  
+Please refrain from altering or redistributing its visuals or core ideas without permission.
+
+<a href="https://doi.org/10.5281/zenodo.15970970"><img src="https://zenodo.org/badge/1020744276.svg" alt="DOI"></a>
+
+---
+
 ## Related Projects
 
-- [Yutone]: An integrated app for logging, reminders, and gentle timekeeping  
-- [Meteomo]: A support app for tracking air pressure, health, and mood—also envisioned for research collaboration  
-- [FUKU Concept]: A philosophy and system architecture for designing kindness into future society
+- [Yutone]: An integrated app for journaling, gentle reminders, and calming timers  
+- [Meteomo]: A support tool for tracking atmospheric pressure, mood, and well-being  
+- [FUKU Framework]: A philosophical and systemic proposal for designing kindness into society
+
+---
+
